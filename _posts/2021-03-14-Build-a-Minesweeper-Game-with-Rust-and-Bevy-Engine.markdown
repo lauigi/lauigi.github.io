@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build a Minesweeper Game with Rust and Bevy Engine"
-date:   2021-03-04 17:00:00 +0800
+date:   2021-03-14 17:00:00 +0800
 categories: rust
 author: Liuigi
 ---
