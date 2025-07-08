@@ -10,7 +10,7 @@ author: Liuigi
 
 ## Background
 
-In the previous article ([link here]), I built a simple Minesweeper game using Rust and Bevy. This post gives a quick overview of the process to compile that desktop game into a web game.
+In the previous article ([Build a Minesweeper Game with Rust and Bevy Engine]({% post_url 2021-03-14-Build-a-Minesweeper-Game-with-Rust-and-Bevy-Engine %})), I built a simple Minesweeper game using Rust and Bevy. This post gives a quick overview of the process to compile that desktop game into a web game.
 
 ## Preparation
 
