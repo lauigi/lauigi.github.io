@@ -6,7 +6,7 @@ categories: rust
 author: Liuigi
 ---
 
-**TThe original text was written in Chinese in March 2021. In July 2025, it was translated into English using ChatGPT and manually proofread.**
+**The original text was written in Chinese in March 2021. In July 2025, it was translated into English using ChatGPT and manually proofread.**
 
 ## Background
 
